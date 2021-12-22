@@ -157,7 +157,7 @@ yat:
 defaults:
    home:
      heading: "Welcome to SLB"
-     subheading: "SecuLetter Blog"
+     subheading: "SecuLetter tech Blog"
 #     banner: "Your image url"
 
 # Banner default settings
