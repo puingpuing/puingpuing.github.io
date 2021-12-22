@@ -141,7 +141,7 @@ yat:
    home:
      heading: "Welcome to SLB"
      subheading: "SecuLetter Blog"
-     banner: "/assets/images/banners/bgi1.jpg"
+#     banner: "/assets/images/banners/bgi1.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
