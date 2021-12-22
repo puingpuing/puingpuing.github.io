@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 준정보(가제)
+title: SECULETTER
 email: contact@seculetter.com
 author: seculetter
 
@@ -156,8 +156,8 @@ yat:
 # Page default value
 defaults:
    home:
-     heading: "준정보(가제) 블로그입니다."
-     subheading: "시큐레터 기술블로그 준정보(가제) 입니다."
+     heading: "Welcome to SLB"
+     subheading: "SecuLetter Blog"
 #     banner: "Your image url"
 
 # Banner default settings
