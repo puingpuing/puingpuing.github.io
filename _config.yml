@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: SECULETTER
 email: your-email@domain.com
 author: GitHub User
 copyright: Copyright © 1970-2010
@@ -137,11 +137,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+ defaults:
+   home:
+     heading: "Welcome to SLB"
+     subheading: "SecuLetter Blog"
+     banner: "/assets/images/banners/bgi1.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
